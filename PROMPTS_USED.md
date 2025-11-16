@@ -1,6 +1,6 @@
 # AI Prompts Used for 3-Radar Position Estimation Project
 
-This document contains the prompts used with AI assistants (Claude Code) to develop the solution for the AI Sensor Exercise.
+This document contains the prompts used with AI assistants  to develop the solution for the AI Sensor Exercise.
 
 ---
 
@@ -193,4 +193,4 @@ All prompts used have been documented in this file as required.
 
 **Date:** November 2025
 **Project:** AI Sensor Exercise - 3-Radar Position Estimation
-**Tools Used:** Claude Code (Anthropic), Python 3.x, NumPy, SciPy, Matplotlib
+**Tools Used:**  Python 3.x, NumPy, SciPy, Matplotlib
