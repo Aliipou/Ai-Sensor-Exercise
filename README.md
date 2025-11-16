@@ -1,4 +1,4 @@
-# 3-Radar Millimetre-Wave Object Position Estimation
+# -Radar Millimetre-Wave Object Position Estimation
 
 A Python-based solution for estimating object positions within a circular monitoring area using three millimetre-wave radar sensors.
 
