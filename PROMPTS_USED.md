@@ -181,7 +181,7 @@ Write a file about the prompts I gave you to do it for submission
 
 ## Academic Integrity Statement
 
-This solution was developed with AI assistance (Claude Code by Anthropic) as permitted by the assignment guidelines. The AI was used for:
+This solution was developed with AI assistance (Claude  by Anthropic) as permitted by the assignment guidelines. The AI was used for:
 - Code structure recommendations
 - Algorithm implementation assistance
 - Documentation generation
